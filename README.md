@@ -20,7 +20,7 @@ Password : 1234
 # 3. 실행방법 (Window 기준)
 1. JavaSetting.exe 실행(C로 짯으며 바탕화면 경로를 가져오는 실행파일 입니다.)
 
-2. 그럼 ServerSet.bat, ClientSet.bat 파일이 나옵니다. 이걸 실행시켜주세요.
+2. JavaSetting.exe 실행시키면 ServerSet.bat, ClientSet.bat 파일이 나옵니다. 이걸 실행시켜주세요.
 
 3. 그 후 ServerStart와 ClientStart를 실행시키면 됩니다.
 
