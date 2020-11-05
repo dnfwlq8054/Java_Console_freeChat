@@ -12,6 +12,8 @@ Password : 1234
 
 로 셋팅되어 있습니다.
 
+프로그램 도움말은 '/help'를 입력해주세요.
+
 # 2. 구상도
 <div>
   <img src="https://user-images.githubusercontent.com/15880397/98195279-acba1900-1f64-11eb-9162-f397de1e414c.PNG" width="90%"></img>
