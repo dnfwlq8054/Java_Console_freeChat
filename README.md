@@ -14,5 +14,5 @@ Password : 1234
 
 # 2. 구상도
 <div>
-  ![캡처](https://user-images.githubusercontent.com/15880397/98195279-acba1900-1f64-11eb-9162-f397de1e414c.PNG)
+  <img src="https://user-images.githubusercontent.com/15880397/98195279-acba1900-1f64-11eb-9162-f397de1e414c.PNG" width="90%"></img>
 </div>
