@@ -1,0 +1,12 @@
+15시 39분 15초 : [user1] bghjghjg
+15시 39분 17초 : [user1] ghjgj
+15시 39분 28초 : [user1] ssdfgsdfg
+15시 39분 32초 : [user1] sfgsfgsdfgsdfgsdfgsdfg
+15시 39분 34초 : [user1] sdfgsdfgsdfgsdgsdfg
+15시 40분 03초 : [user2] asdfasdf
+15시 40분 04초 : [user2] asdfasdf
+15시 40분 06초 : [user1] hfghghj
+15시 40분 18초 : [user1] hjkghj
+15시 40분 25초 : [user2] asdfasdf
+15시 41분 22초 : [user1] asdfasdf
+15시 41분 24초 : [user1] asdfasdfasdfavsdf
